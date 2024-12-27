@@ -1,0 +1,15 @@
+C:\Users\Walter Zavala\Documents\TreinoC#\exerciciomatriz\bin\Debug\net9.0\ExercicioMatriz.exe
+C:\Users\Walter Zavala\Documents\TreinoC#\exerciciomatriz\bin\Debug\net9.0\ExercicioMatriz.deps.json
+C:\Users\Walter Zavala\Documents\TreinoC#\exerciciomatriz\bin\Debug\net9.0\ExercicioMatriz.runtimeconfig.json
+C:\Users\Walter Zavala\Documents\TreinoC#\exerciciomatriz\bin\Debug\net9.0\ExercicioMatriz.dll
+C:\Users\Walter Zavala\Documents\TreinoC#\exerciciomatriz\bin\Debug\net9.0\ExercicioMatriz.pdb
+C:\Users\Walter Zavala\Documents\TreinoC#\exerciciomatriz\obj\Debug\net9.0\ExercicioMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter Zavala\Documents\TreinoC#\exerciciomatriz\obj\Debug\net9.0\ExercicioMatriz.AssemblyInfoInputs.cache
+C:\Users\Walter Zavala\Documents\TreinoC#\exerciciomatriz\obj\Debug\net9.0\ExercicioMatriz.AssemblyInfo.cs
+C:\Users\Walter Zavala\Documents\TreinoC#\exerciciomatriz\obj\Debug\net9.0\ExercicioMatriz.csproj.CoreCompileInputs.cache
+C:\Users\Walter Zavala\Documents\TreinoC#\exerciciomatriz\obj\Debug\net9.0\ExercicioMatriz.sourcelink.json
+C:\Users\Walter Zavala\Documents\TreinoC#\exerciciomatriz\obj\Debug\net9.0\ExercicioMatriz.dll
+C:\Users\Walter Zavala\Documents\TreinoC#\exerciciomatriz\obj\Debug\net9.0\refint\ExercicioMatriz.dll
+C:\Users\Walter Zavala\Documents\TreinoC#\exerciciomatriz\obj\Debug\net9.0\ExercicioMatriz.pdb
+C:\Users\Walter Zavala\Documents\TreinoC#\exerciciomatriz\obj\Debug\net9.0\ExercicioMatriz.genruntimeconfig.cache
+C:\Users\Walter Zavala\Documents\TreinoC#\exerciciomatriz\obj\Debug\net9.0\ref\ExercicioMatriz.dll
