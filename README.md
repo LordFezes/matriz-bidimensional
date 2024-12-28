@@ -1,5 +1,5 @@
 # matriz-bidimensional
-Manipulação de matrizes bidimensionais utilizando C# .NET.
+Manipulação de matrizes bidimensionais utilizando C# com .NET.
 
 ## Funcionalidades
 - Preencher uma matriz com valores fornecidos pelo usuário.
